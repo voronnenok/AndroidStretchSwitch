@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StretchSwitch">
+        <attr name="switchChecked" format="boolean"/>
+        <attr name="slider" format="integer"/>
+        <attr name="sliderTrack" format="integer"/>
+        <attr name="trackPadding" format="dimension"/>
+        <attr name="trackPaddingLeft" format="dimension"/>
+        <attr name="trackPaddingTop" format="dimension"/>
+        <attr name="trackPaddingRight" format="dimension"/>
+        <attr name="trackPaddingBottom" format="dimension"/>
+        <attr name="trackTextOff" format="string"/>
+        <attr name="trackTextOn" format="string"/>
+        <attr name="sliderTextOff" format="string"/>
+        <attr name="sliderTextOn" format="string"/>
+        <attr name="trackTextAppearance" format="integer"/>
+        <attr name="sliderTextAppearance" format="integer"/>
+    </declare-styleable>
+</resources>

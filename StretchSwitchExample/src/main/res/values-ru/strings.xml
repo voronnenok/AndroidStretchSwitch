@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StretchSwitchExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="switch_text_off">Выключено</string>
+    <string name="switch_text_on">Включено</string>
+    <string name="track_text_off">Выключить</string>
+    <string name="track_text_on">Включить</string>
+</resources>

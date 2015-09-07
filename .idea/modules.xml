@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StretchSwitch.iml" filepath="$PROJECT_DIR$/StretchSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StretchSwitchExample/StretchSwitchExample.iml" filepath="$PROJECT_DIR$/StretchSwitchExample/StretchSwitchExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stretchswitch/stretchswitch.iml" filepath="$PROJECT_DIR$/stretchswitch/stretchswitch.iml" />
+    </modules>
+  </component>
+</project>

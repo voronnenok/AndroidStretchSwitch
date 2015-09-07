@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="TrackText">
+        <item name="textAllCaps">true</item>
+        <item name="android:textSize">36px</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="SliderText">
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="StretchSwitchStyle">
+        <item name="sliderTrack">@drawable/switch_track_background</item>
+        <item name="slider">@drawable/switch_thumb_background</item>
+        <item name="trackTextOff">@string/track_text_off</item>
+        <item name="trackTextOn">@string/track_text_on</item>
+        <item name="sliderTextOff">@string/switch_text_off</item>
+        <item name="sliderTextOn">@string/switch_text_on</item>
+        <item name="switchChecked">true</item>
+        <item name="trackTextAppearance">@style/TrackText</item>
+        <item name="sliderTextAppearance">@style/SliderText</item>
+    </style>
+</resources>
